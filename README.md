@@ -1,2 +1,2 @@
-# nan.ge
-个人主页，导航页展示。
+搬运与博客
+https://github.com/XOS/Nange
